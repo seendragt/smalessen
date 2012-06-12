@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/Gemfile</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/controllers/welcome_controller.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/config/environment.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/config/routes.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/views/layouts/application.html.erb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/models/feedback_message.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/views/home/new_feedback.html.erb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/controllers/home_controller.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/db/migrate/20120521090702_devise_create_users.rb</file>
+        <file>file:/C:/Program%20Files%20(x86)/SmartGit%203/bin/rails-course-catch-up/app/views/home/index.html.erb</file>
+    </open-files>
 </project-private>

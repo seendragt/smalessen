@@ -1,0 +1,6 @@
+<%= form_for @feedback_message do  %>
+   <%= f.text_field  :email%>
+   <%= f.text_field  :subject %>
+   <%= f.text_field  :body %>
+   <%  f.submit "send" %>
+<% end -%>

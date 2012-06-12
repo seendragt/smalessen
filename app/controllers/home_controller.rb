@@ -12,5 +12,9 @@ class HomeController < ApplicationController
   def destroy
     
   end
-  
+
+  def new feedback
+    @feedback_message = Feedbackmessage.new
+  end
+
 end
